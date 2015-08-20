@@ -18,3 +18,13 @@ C:\Projects\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyTwo.dll
 C:\Projects\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyOne.pdb
 C:\Projects\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyTwo.pdb
 C:\Projects\MyCSharpTest\MyCSharpTest\obj\Debug\MyCSharpTest.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\MyCSharpTest.exe.config
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\obj\Debug\MyCSharpTest.exe
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\obj\Debug\MyCSharpTest.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\MyCSharpTest.exe
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\MyCSharpTest.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyOne.dll
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyTwo.dll
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyOne.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\bin\Debug\AssemblyTwo.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\MyCSharpTest\obj\Debug\MyCSharpTest.csprojResolveAssemblyReference.cache

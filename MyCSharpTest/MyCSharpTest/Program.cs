@@ -1,5 +1,6 @@
 ﻿using System.Runtime.InteropServices.ComTypes;
 using MyCSharpTest.Examples;
+using MyCSharpTest.Examples.AbstractClassesExample;
 
 namespace MyCSharpTest
 {
@@ -14,8 +15,8 @@ namespace MyCSharpTest
             //var overridingHidingExample = new OverridingHidingExample();            
             //var structsVsClassesExample = new StructsVsClassesExample();
             //var interfacesExample = new InterfacesExample();
-            var explicitInterfacesExample = new ExplicitInterfacesExample();
-
+            //var explicitInterfacesExample = new ExplicitInterfacesExample();
+            var abstractClassesExample = new AbstractClassesExample();
         }        
     }
 }
