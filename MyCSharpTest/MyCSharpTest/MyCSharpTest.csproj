@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Examples\AbstractClassesExample.cs" />
+    <Compile Include="Examples\AbstractClassesVsInterfacesExample.cs" />
+    <Compile Include="Examples\EnumExample.cs" />
     <Compile Include="Examples\ExplicitInterfacesExample.cs" />
+    <Compile Include="Examples\MultipleClassInheritanceExample.cs" />
     <Compile Include="Examples\OverridingHidingExample.cs" />
     <Compile Include="Examples\ParamsExample.cs" />
     <Compile Include="Examples\PolymorphismExample.cs" />

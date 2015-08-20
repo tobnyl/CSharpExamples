@@ -16,7 +16,10 @@ namespace MyCSharpTest
             //var structsVsClassesExample = new StructsVsClassesExample();
             //var interfacesExample = new InterfacesExample();
             //var explicitInterfacesExample = new ExplicitInterfacesExample();
-            var abstractClassesExample = new AbstractClassesExample();
+            //var abstractClassesExample = new AbstractClassesExample();
+            //var abstractClassesVsInterfaces = new AbstractClassesVsInterfacesExample();
+            //var abstractClassesVsInterfacesExample = new AbstractClassesVsInterfacesExample();
+            var enumExample = new EnumExample();
         }        
     }
 }
