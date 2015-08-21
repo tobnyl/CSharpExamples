@@ -50,6 +50,7 @@
     <Compile Include="Examples\ParamsExample.cs" />
     <Compile Include="Examples\PolymorphismExample.cs" />
     <Compile Include="Examples\InterfacesExample.cs" />
+    <Compile Include="Examples\ReflectionExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Examples\ProtectedInternalExample.cs" />

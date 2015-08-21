@@ -12,9 +12,8 @@ namespace MyCSharpTest.Examples
         {
             short[] values = (short[])Enum.GetValues(typeof (Gender));
 
-            for (int i = 0; i < values.Length; i++)
+            foreach (var value in values)
             {
-                var value = values[i];
                 var name = Enum.GetName(typeof(Gender), value);                
 
                 Console.WriteLine("{0} - {1}", name, value);
