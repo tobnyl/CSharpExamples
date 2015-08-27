@@ -20,7 +20,8 @@ namespace MyCSharpTest
             //var abstractClassesVsInterfaces = new AbstractClassesVsInterfacesExample();
             //var abstractClassesVsInterfacesExample = new AbstractClassesVsInterfacesExample();
             //var enumExample = new EnumExample();
-            var reflectionExample = new ReflectionExample();
+            //var reflectionExample = new ReflectionExample();
+            var lateBindingExample = new LateBindingExample();
         }        
     }
 }
