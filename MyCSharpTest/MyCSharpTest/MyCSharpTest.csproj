@@ -43,10 +43,15 @@
   <ItemGroup>
     <Compile Include="Examples\AbstractClassesExample.cs" />
     <Compile Include="Examples\AbstractClassesVsInterfacesExample.cs" />
+    <Compile Include="Examples\Delegates2Example.cs" />
+    <Compile Include="Examples\DelegatesExample.cs" />
     <Compile Include="Examples\EnumExample.cs" />
     <Compile Include="Examples\ExplicitInterfacesExample.cs" />
-    <Compile Include="Examples\LateBindingExample.cs" />
+    <Compile Include="Examples\GenericsExample.cs" />
+    <Compile Include="Examples\HashTableExample.cs" />
+    <Compile Include="Examples\LateBindingReflectionExample.cs" />
     <Compile Include="Examples\MultipleClassInheritanceExample.cs" />
+    <Compile Include="Examples\OverrideObjectMethodsExample.cs" />
     <Compile Include="Examples\OverridingHidingExample.cs" />
     <Compile Include="Examples\ParamsExample.cs" />
     <Compile Include="Examples\PolymorphismExample.cs" />

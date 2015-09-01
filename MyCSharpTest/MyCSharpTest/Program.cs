@@ -1,6 +1,7 @@
 ﻿using System.Runtime.InteropServices.ComTypes;
 using MyCSharpTest.Examples;
 using MyCSharpTest.Examples.AbstractClassesExample;
+using MyCSharpTest.Examples.Delegate;
 
 namespace MyCSharpTest
 {
@@ -21,7 +22,12 @@ namespace MyCSharpTest
             //var abstractClassesVsInterfacesExample = new AbstractClassesVsInterfacesExample();
             //var enumExample = new EnumExample();
             //var reflectionExample = new ReflectionExample();
-            var lateBindingExample = new LateBindingExample();
+            //var lateBindingReflectionExample = new LateBindingReflectionExample();
+            //var genericsExample = new GenericsExample();
+            //var overrideObjectMethodsExample = new OverrideObjectMethodsExample();
+            //var hashTableExample = new HashTableExample();
+            //var delegatesExample = new DelegatesExample();
+            var delegates2Example = new Delegates2Example();
         }        
     }
 }

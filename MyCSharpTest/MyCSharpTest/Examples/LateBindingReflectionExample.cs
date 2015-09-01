@@ -7,9 +7,9 @@ using System.Reflection;
 
 namespace MyCSharpTest.Examples
 {
-    class LateBindingExample
+    class LateBindingReflectionExample
     {
-        public LateBindingExample()
+        public LateBindingReflectionExample()
         {
             #region Late Binding
 
