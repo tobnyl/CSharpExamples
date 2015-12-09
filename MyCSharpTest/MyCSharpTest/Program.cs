@@ -2,6 +2,7 @@
 using MyCSharpTest.Examples;
 using MyCSharpTest.Examples.AbstractClassesExample;
 using MyCSharpTest.Examples.Delegate;
+using MyCSharpTest.Examples.Derp;
 
 namespace MyCSharpTest
 {
