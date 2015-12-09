@@ -13,6 +13,8 @@ namespace MyCSharpTest.Examples.AbstractClassesExample
             Program p = new Program();
             p.Print();
 
+            Console.WriteLine("===============================================");
+
             Customer c = new Program();
             c.Print();
         }
@@ -29,6 +31,8 @@ namespace MyCSharpTest.Examples.AbstractClassesExample
             Console.WriteLine("3. An abstract class cannot be sealed");
             Console.WriteLine("4. An abstract class may contain abstract members, but not mandatory");
             Console.WriteLine(("5. A non-abstract class derived from an abstract class must provide implementations for all inherited abstract members"));
+
+            Print1();
         }
     }
 
@@ -38,7 +42,7 @@ namespace MyCSharpTest.Examples.AbstractClassesExample
         // Non-abstract method
         public void Print1()
         {
-            
+            Console.WriteLine("Print1() called: Non-abstract method from abstract base class...");
         }
 
         public abstract void Print();

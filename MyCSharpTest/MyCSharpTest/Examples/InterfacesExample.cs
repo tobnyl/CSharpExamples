@@ -30,8 +30,16 @@ namespace MyCSharpTest
         }
     }
 
+    public class BaseClass
+    {
+        public BaseClass()
+        {
+            Console.WriteLine("Base class constructor...");
+        }
+    }
+
     // Hoover over the 'I2' and select 'Implement interface I2'
-    public class Customer : ICustomer2
+    public class Customer : BaseClass, ICustomer2
     {
         public void Print2()
         {

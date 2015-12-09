@@ -13,7 +13,7 @@ namespace MyCSharpTest
             //var protectedInternalExample = new ProtectedInternalExample();
             //var paramsExample = new ParamsExample();
             //var polymorphismExample = new PolymorphismExample();
-            //var overridingHidingExample = new OverridingHidingExample();            
+            //var overridingHidingExample = new OverridingHidingExample();
             //var structsVsClassesExample = new StructsVsClassesExample();
             //var interfacesExample = new InterfacesExample();
             //var explicitInterfacesExample = new ExplicitInterfacesExample();
@@ -27,7 +27,8 @@ namespace MyCSharpTest
             //var overrideObjectMethodsExample = new OverrideObjectMethodsExample();
             //var hashTableExample = new HashTableExample();
             //var delegatesExample = new DelegatesExample();
-            var delegates2Example = new Delegates2Example();
+            //var delegates2Example = new Delegates2Example();
+            var indexersExample = new IndexersExample();
         }        
     }
 }

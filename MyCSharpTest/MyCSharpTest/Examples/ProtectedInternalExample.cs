@@ -4,8 +4,11 @@ namespace MyCSharpTest.Examples
 {
     class ProtectedInternalExample
     {
-        AssemblyOneClassI _ao1 = new AssemblyOneClassI();
-        A01Child _a01C = new A01Child();
+        public ProtectedInternalExample()
+        {
+            AssemblyOneClassI _ao1 = new AssemblyOneClassI();
+            A01Child _a01C = new A01Child();
+        }
     }
 
     class A01Child : AssemblyOneClassI

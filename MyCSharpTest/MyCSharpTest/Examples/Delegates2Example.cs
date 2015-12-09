@@ -17,9 +17,23 @@ namespace MyCSharpTest.Examples.Delegate
             empList.Add(new Employee() { ID = 103, Name = "John", Salary = 6000, Experience = 6 });
             empList.Add(new Employee() { ID = 104, Name = "Todd", Salary = 3000, Experience = 3 });
 
-            Employee.PromoteEmployee(empList);
+            Console.WriteLine("Like this:");
+            Console.WriteLine("============================================");
+            IsPromotable promotable = Promote;
+            Employee.PromoteEmployee(empList, promotable);
+
+            Console.WriteLine("\nOr with lambda expression:");
+            Console.WriteLine("============================================");
+            Employee.PromoteEmployee(empList, emp => emp.Experience >= 5);
+        }
+
+        public bool Promote(Employee emp)
+        {
+            return emp.Experience >= 5;
         }
     }
+
+    delegate bool IsPromotable(Employee epl);
 
     class Employee
     {
@@ -28,11 +42,11 @@ namespace MyCSharpTest.Examples.Delegate
         public int Salary { get; set; }
         public int Experience { get; set; }
 
-        public static void PromoteEmployee(List<Employee> employees)
+        public static void PromoteEmployee(List<Employee> employees, IsPromotable isEligiblePromote)
         {
             foreach (var employee in employees)
             {
-                if (employee.Experience >= 5)
+                if (isEligiblePromote(employee))
                 {
                     Console.WriteLine(employee.Name + " promoted");
                 }

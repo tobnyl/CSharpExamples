@@ -2,3 +2,8 @@ C:\Workspaces\MyCSharpTest\AssemblyOne\bin\Debug\AssemblyOne.dll
 C:\Workspaces\MyCSharpTest\AssemblyOne\bin\Debug\AssemblyOne.pdb
 C:\Workspaces\MyCSharpTest\AssemblyOne\obj\Debug\AssemblyOne.dll
 C:\Workspaces\MyCSharpTest\AssemblyOne\obj\Debug\AssemblyOne.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyOne\obj\Debug\AssemblyOne.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyOne\obj\Debug\AssemblyOne.pdb

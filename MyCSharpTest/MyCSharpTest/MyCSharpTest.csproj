@@ -49,6 +49,7 @@
     <Compile Include="Examples\ExplicitInterfacesExample.cs" />
     <Compile Include="Examples\GenericsExample.cs" />
     <Compile Include="Examples\HashTableExample.cs" />
+    <Compile Include="Examples\IndexersExample.cs" />
     <Compile Include="Examples\LateBindingReflectionExample.cs" />
     <Compile Include="Examples\MultipleClassInheritanceExample.cs" />
     <Compile Include="Examples\OverrideObjectMethodsExample.cs" />

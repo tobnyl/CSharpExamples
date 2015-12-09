@@ -3,3 +3,8 @@ C:\Workspaces\MyCSharpTest\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
 C:\Workspaces\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.csprojResolveAssemblyReference.cache
 C:\Workspaces\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.dll
 C:\Workspaces\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Projects\CSharpExamples\MyCSharpTest\AssemblyTwo\obj\Debug\AssemblyTwo.pdb
